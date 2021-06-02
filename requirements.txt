@@ -14,5 +14,5 @@ requests==2.22.0
 six==1.12.0
 https://download.pytorch.org/whl/cpu/torch-1.2.0%2Bcpu-cp36-cp36m-manylinux1_x86_64.whl
 https://download.pytorch.org/whl/cu100/torchvision-0.4.0-cp36-cp36m-manylinux1_x86_64.whl
-urllib3==1.25.3
+urllib3==1.26.5
 Werkzeug==0.15.5
